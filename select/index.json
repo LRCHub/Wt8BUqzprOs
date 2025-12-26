@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パステルコラージュ",
+  "base_artist": "鬼塚夏美 (CV.絵森 彩)",
+  "createdAt": "2025-12-26T02:04:48.423119Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パステルコラージュ",
+      "artist": "鬼塚夏美 (CV.絵森 彩)",
+      "has_synced": false,
+      "path": "select/pl_01_パステルコラージュ_鬼塚夏美_(CV.絵森_彩).txt"
+    }
+  ]
+}
